@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Welcome to my program!"
+echo "Weclome to my program!"
